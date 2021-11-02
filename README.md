@@ -1,14 +1,8 @@
 ### 计划进度
-
-1、地图嵌入控制页面 -- 涉及到定位、行驶线路图、行驶线路的历史记录(3条历史记录) 需要在andriod studio上编写
-2、主页的编写
-3、网络请求
-4、控制页面显示电池电量   完成✅
-
-ionic build
-ionic cap add android
-ionic cap copy
-ionic cap sync
+#### ionic build
+#### ionic cap add android
+#### ionic cap copy
+#### ionic cap sync
 
 ionic cap open android
 
