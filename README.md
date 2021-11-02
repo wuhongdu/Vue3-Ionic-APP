@@ -1,10 +1,9 @@
-### 计划进度
 #### ionic build
 #### ionic cap add android
 #### ionic cap copy
 #### ionic cap sync
 
-ionic cap open android
+### ionic cap open android
 
 ### 蓝牙模块思路
 1、 首先要在扫描前知道 手机的网络是否在wifi情况下
